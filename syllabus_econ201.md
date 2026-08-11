@@ -76,7 +76,7 @@ In-class quizzes are designed to check your understanding of key concepts and en
 Two in-person exams emphasize conceptual understanding as well as applications (without the need for a computer). For example, you may see the output from a statistical analysis and be asked to interpret the results. You will be given study guides to prepare.
 
 - The midterm exam takes place during the evening exam slot, 7pm-9pm. Classroom locations will be announced.
-- The final exam will take place during the final exams week (check Spire for the exact time and location).
+- The final exam will take place during the final exams week (double-check Spire for the exact time and location).
 - You may bring any physical notes to the exam, but you must refrain from communicating with others or using electronic devices.
 - Absence from an exam will be excused ONLY in the case of illness or family emergency that is appropriately documented; otherwise a grade of zero will be assigned.
 
@@ -145,7 +145,7 @@ We will also use [DAGitty](https://dagitty.net/), a website for drawing and anal
 | 12/08/26 | Fun with cats / Hypothetical thinking (TBD) | (TBD) |
 | 12/10/26 | Presenting statistical results | |
 | 12/15/26 | Final Review & Last Day of Classes | |
-| TBA | **Final Exam** | |
+| 12/21/26 | **Final Exam** | |
 
 ---
 
