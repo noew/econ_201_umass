@@ -69,7 +69,7 @@ In-class quizzes are designed to check your understanding of key concepts and en
 
 - Quizzes will be administered during regular class sessions using the free Classquestion.com website
 - Expect 1-2 multiple choice questions per week, typically administered at strategic points during the lecture.
-- Quizzes cannot be made up, but your **lowest 3 quiz grades will be dropped** to account for absences and technical difficulties.
+- Quizzes cannot be made up, but your **lowest 4 quiz grades will be dropped** to account for absences and technical difficulties.
 
 ### Exams
 
