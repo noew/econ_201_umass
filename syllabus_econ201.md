@@ -19,7 +19,7 @@
 
 **Office:** Gordon Hall, room 222
 
-**Student hours:** After class, and Wednesdays 1pm-3pm via video conference (sign-up link on Canvas)
+**Student hours:** Wednesdays 1pm-3pm via video conference (sign-up link on Canvas)
 
 ---
 
